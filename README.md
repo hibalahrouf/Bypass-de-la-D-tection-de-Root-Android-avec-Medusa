@@ -1,4 +1,4 @@
-# Rapport de Laboratoire : Bypass de la Détection Root Android avec Medusa
+#Bypass de la Détection Root Android avec Medusa
 
 ## Introduction
 Ce laboratoire présente la réalisation d'un bypass de la détection root sur une application Android en utilisant l'outil **Medusa**. L'objectif est de neutraliser les mécanismes de vérification de l'état "rooté" de l'appareil pour permettre l'exécution normale de l'application.
